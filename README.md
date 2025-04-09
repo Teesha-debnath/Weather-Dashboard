@@ -1,4 +1,5 @@
 🌤️ Weather Dashboard
+
 A modern and responsive weather application built with React.js and Vite, powered by the OpenWeatherMap API, allowing users to search for real-time weather updates and 5-day forecasts.
 
 dark mode: <img width="959" alt="Sss1" src="https://github.com/user-attachments/assets/f4f67006-9d37-47c7-bce3-b6d79158761c" />
