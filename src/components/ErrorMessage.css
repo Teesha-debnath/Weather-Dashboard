@@ -1,0 +1,14 @@
+.error-message {
+    margin-top: 16px;
+    margin-left: 2.2rem;
+    margin-bottom: 1rem;
+    background-color: rgba(255, 255, 255, 0.05);
+    color: white; 
+    padding: 12px;
+    width: 16rem;
+    border-radius: 8px;
+    text-align: center;
+    /* border: 1px solid rgb(8, 7, 7);  */
+    font-size: 14px;
+  }
+  
